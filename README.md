@@ -255,4 +255,4 @@ This repository serves as the official landing page for TMPGEnc Video Mastering 
 **Get the most recent version of TMPGEnc Video Mastering Works today!**
 
 ---
-**Last updated:** 2026-10-10 19:57:37 UTC
+**Last updated:** 2026-10-10 23:26:52 UTC
